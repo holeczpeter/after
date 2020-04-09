@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "emulator.emulatorPath":  "~/Library/Android/sdk/emulator",
+    "emulator.emulatorPathWindows": "c:\\Program Files (x86)\\Android\\android-sdk\\emulator",
+    "emulator.androidColdBoot": true,
+    "diffEditor.ignoreTrimWhitespace": false
+}
